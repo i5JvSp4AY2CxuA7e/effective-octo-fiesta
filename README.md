@@ -1,4 +1,4 @@
-Fork of [jisho-extension](https://github.com/gbrixey/jisho-extension) for the use of http://jpdb.io/
+Fork of [jisho-extension](https://github.com/gbrixey/jisho-extension) for the use with http://jpdb.io/
 
 
 Original Project Links: 
