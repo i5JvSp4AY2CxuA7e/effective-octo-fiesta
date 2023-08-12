@@ -1,7 +1,7 @@
-# jisho-extension ![icon](icon32.png)
-A Chrome extension that makes it slightly more convenient to look up kanji on Jisho.org.
+Fork of [jisho-extension](https://github.com/gbrixey/jisho-extension) for the use for http://jpdb.io/
 
-[Here is a link to the extension on the Chrome Web Store.](https://chrome.google.com/webstore/detail/jisho-extension/iblocgbegbfbikfpjajboohgnegaonho)
+Original Project:
 
-----
-![screenshot](screenshot.png)
+https://chrome.google.com/webstore/detail/jisho-extension/iblocgbegbfbikfpjajboohgnegaonho
+https://github.com/gbrixey/jisho-extension
+
